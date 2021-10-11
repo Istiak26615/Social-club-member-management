@@ -1,0 +1,12 @@
+.header-design{
+    text-align: center;
+    background-color: #282A35;
+    color: white;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: brown;
+    border-end-start-radius: 20px;
+    border-end-end-radius: 20px;
+
+}

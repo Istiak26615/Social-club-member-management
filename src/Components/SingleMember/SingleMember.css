@@ -1,0 +1,34 @@
+.single-member-card{
+    border:1px solid #282A35;
+    border-radius: 10px;
+    background-color: #282A35;
+    color:honeydew;
+    height: 350px;
+    width: 300px;
+    margin: 10px; 
+    padding: 20px;
+    /* margin-top: 10px; */
+    -webkit-box-shadow: 5px 6px 15px -6px #000000; 
+    box-shadow: 5px 6px 15px -6px #000000;
+}
+
+.single-member-card:hover{
+   box-shadow: 15px 16px 15px -6px #000000;
+}
+.single-member-card img{
+    
+    border: 1px solid gray;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.fa-facebook-square{
+    padding: 10px;
+    padding-bottom: 10px;
+}
+.fa-twitter-square{
+    padding: 10px;
+}
+.member-elements p{ margin:0 }
